@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'This is the content of the file' > $'*\\\'"Best School"\\\'\\*$\\?\\*\\*\\*\\*\\:)'
+echo "Best School" > \\\\\\\"'\"Best School\"\\'"\\\\\\$\\\?\\\\\\\\\\\\\\\*:\)
