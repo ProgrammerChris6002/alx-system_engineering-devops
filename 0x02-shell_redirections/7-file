@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" | "touch $'*\\\'"Best School"\\\'\\*$\\?\\*\\*\\*\\*\\:)'
+echo 'This is the content of the file' > $'*\\\'"Best School"\\\'\\*$\\?\\*\\*\\*\\*\\:)'
