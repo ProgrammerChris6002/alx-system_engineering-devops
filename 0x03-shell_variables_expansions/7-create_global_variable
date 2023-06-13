@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'GLOBAL_VAR="Hello, world!"' | sudo tee -a /etc/enviroment > /dev/null
+echo 'BEST="School"' | sudo tee -a /etc/enviroment > /dev/null
