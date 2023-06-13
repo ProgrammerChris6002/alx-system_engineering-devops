@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'BEST="School"' | sudo tee -a /etc/enviroment > /dev/null
+export BEST="School" >> ~/.bash_profile.sh
