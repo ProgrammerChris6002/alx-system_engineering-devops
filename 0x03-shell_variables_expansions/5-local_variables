@@ -1,2 +1,2 @@
 #!/bin/bash
-bash -c 'compgen -v; compgen -e; compgen -A function'
+set | less
